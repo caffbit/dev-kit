@@ -1,0 +1,11 @@
+theme = sans-syntax
+font-family = Comic Code
+font-family = MesloLGS NF
+font-family = Symbols Nerd Font Mono
+font-size = 14
+
+macos-option-as-alt=left
+macos-titlebar-style = hidden
+window-padding-x = 15
+window-padding-y = 15
+shell-integration-features = ssh-terminfo,ssh-env
